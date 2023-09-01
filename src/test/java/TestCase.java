@@ -1,8 +1,7 @@
 import org.example.pages.TextBoxPage;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-
-public class TestSuite {
+public class TestCase {
     TextBoxPage textBoxPage = new TextBoxPage();
 
     @Test
